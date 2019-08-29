@@ -12,7 +12,9 @@ plt.xlabel('x axis')
 plt.ylabel('y axis')
 
 
-#sub plots in python
+
+
+# sub plots in python 
 
 plt.figure(figsize=(16,9),facecolor='red')
 
